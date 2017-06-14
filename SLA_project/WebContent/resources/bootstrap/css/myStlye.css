@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+.logo{
+	background-color: blue;  
+    height: 100px;    
+}
+body{
+	background-image:url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+	max-width: 100%;
+    height: auto;
+    }
+.btn-primary-spacing 
+{
+margin-right: 5px;
+margin-bottom: 5px !important;
+}
+
